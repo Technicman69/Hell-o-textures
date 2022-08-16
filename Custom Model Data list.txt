@@ -1,0 +1,13 @@
+prefix - 7411
+template - 7411000
+
+7411001: gold_nugget -> obol
+7411002: bread -> olives
+7411003: glow_berries -> grapes
+7411004: carrot_on_a_stick -> wooden_pipe
+
+7411010: shield/shield_blocking -> aegis
+
+
+7411101: emerald -> elysian_brewer/body (custom_entity)
+7411102: emerald -> elysian_brewer/head (custom_entity)

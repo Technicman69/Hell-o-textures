@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/emerald"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 7411101
+      },
+      "model": "hades:custom_entity/elysian_brewer/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7411102
+      },
+      "model": "hades:custom_entity/elysian_brewer/head"
+    }
+  ]
+}
