@@ -9,6 +9,12 @@
         "custom_model_data": 7411002
       },
       "model": "hades:item/olives"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7411006
+      },
+      "model": "hades:item/ambrosia"
     }
   ]
 }

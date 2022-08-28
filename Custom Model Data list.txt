@@ -5,6 +5,8 @@ template - 7411000
 7411002: bread -> olives
 7411003: glow_berries -> grapes
 7411004: carrot_on_a_stick -> wooden_pipe
+7411005: honey_bottle -> nectar
+7411006: bread -> ambrosia
 
 7411010: shield/shield_blocking -> aegis
 
