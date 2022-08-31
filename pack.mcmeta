@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 9,
-    "description": "Obol texture for The Hades datapack"
+    "description": {"text":"Textures for The Hades datapack","color":"#5d7fe7"}
   }
 }
